@@ -1,0 +1,43 @@
+.cont{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(219, 252, 191);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.formulario{
+    width: 70%;
+    height: 90%;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.input{
+    width: 40%;
+    height: 8%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+    border: solid 1px black;
+}
+.input-0{
+width: 85%;
+height: 95%;
+border: none;
+border-radius: 50px 0px 0px 50px ;
+}
+.boton{
+width:12%;
+height: 75%;
+border-radius: 50px;
+border: none;
+background-color: white;
+}
+.icono{
+    width:35px;
+    height: 35px;
+}
